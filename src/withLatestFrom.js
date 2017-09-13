@@ -21,4 +21,3 @@ withLatestFrom
 --H--e--L--l--O|
  */
 hello$.withLatestFrom(interval$, (hello, interval) => interval ? hello.toUpperCase() : hello).subscribe(x => console.log(x));
-
