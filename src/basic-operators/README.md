@@ -1,0 +1,1 @@
+"RxJS Beyond the Basics: Operators in Depth" by André Staltz
