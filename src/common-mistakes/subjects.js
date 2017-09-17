@@ -1,3 +1,5 @@
+// Convert RxJS Subjects to Observables.
+
 // instead of (DO NOT)
 const click$ = new Rx.Subject();
 
